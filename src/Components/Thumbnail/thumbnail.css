@@ -1,0 +1,14 @@
+.thumbnail{
+    cursor: pointer;
+}
+
+.caption{
+    height: 70px;
+    position: relative;
+    bottom: 70px;
+    border-radius: 0px 0px 10px 10px;
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+    
+} 
