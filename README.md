@@ -12,8 +12,8 @@
 ## Key features:
 * unordered list
 * item 2
- + sub-item 1
- + sub-item 2 
+  +  sub-item 1
+  +  sub-item 2 
  
 ## Technology
 - **REACT**
