@@ -10,9 +10,12 @@
 
 
 ## Key features:
-* item 2
-  + sub-item 1
-  + sub-item 2 
+* User
+  + Can log in with Gmail.
+  + Can register for a volunteering event.
+  + Can cancel a volunteering event that he/she already registered.
+  + Can see all the volunteering event that he/she registered.
+ 
  
 ## Technology
 - **REACT**
