@@ -16,6 +16,11 @@
   + Can cancel a volunteering event that he/she already registered.
   + Can see all the volunteering event that he/she registered.
  
+ * Admin
+  + Can see all the participants.
+  + Can remove a participant from a particular event.
+  + Can add a new volunteering event which is dynamically shown on the homepage.
+ 
  
 ## Technology
 - **REACT**
